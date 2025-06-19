@@ -14,14 +14,14 @@ A full pipeline implementation for **automated detection and segmentation of non
 Here are some sample segmentation results visualized after inferenced:
 
 <p align="center">
-  <img src="prediction/sample1.png" width="250"/>
-  <img src="prediction/sample2.png" width="250"/>
-  <img src="prediction/sample3.png" width="250"/>
+  <img src="prediction/sample1.png" width=25%/>
+  <img src="prediction/sample2.png" width=25%/>
+  <img src="prediction/sample3.png" width=25%/>
 </p>
 <p align="center">
-  <img src="prediction/sample4.png" width="250"/>
-  <img src="prediction/sample5.png" width="250"/>
-  <img src="prediction/sample6.png" width="250"/>
+  <img src="prediction/sample4.png" width=25%/>
+  <img src="prediction/sample5.png" width=25%/>
+  <img src="prediction/sample6.png" width=25%/>
 </p>
 
 ---
