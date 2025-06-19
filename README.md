@@ -1,4 +1,4 @@
-# 🫁 NSCLC Lung Tumor Segmentation Pipeline
+# NSCLC Lung Tumor Segmentation Pipeline
 
 A full pipeline implementation for **automated detection and segmentation of non-small cell lung cancer (NSCLC)** in CT images, inspired by the paper:
 
