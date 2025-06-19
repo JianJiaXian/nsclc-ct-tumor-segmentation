@@ -5,7 +5,7 @@ A full pipeline implementation for **automated detection and segmentation of non
 > Primakov, S.P., Ibrahim, A., van Timmeren, J.E. et al.  
 > *Automated detection and segmentation of non-small cell lung cancer computed tomography images*.  
 > Nature Communications 13, 3423 (2022).  
->  [Paper Link](https://www.nature.com/articles/s41467-022-30841-3) |  [DOI](https://doi.org/10.1038/s41467-022-30841-3)
+>  [Paper Link](https://www.nature.com/articles/s41467-022-30841-3) |  [DOI](https://doi.org/10.1038/s41467-022-30841-3) | [Code](https://github.com/primakov/DuneAI-Automated-detection-and-segmentation-of-non-small-cell-lung-cancer-computed-tomography-images)
 
 ---
 
