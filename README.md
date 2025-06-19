@@ -9,6 +9,23 @@ A full pipeline implementation for **automated detection and segmentation of non
 
 ---
 
+##  Sample Inference Results
+
+Here are some sample segmentation results visualized after inferenced:
+
+<p align="center">
+  <img src="prediction/sample1.png" width="250"/>
+  <img src="prediction/sample2.png" width="250"/>
+  <img src="prediction/sample3.png" width="250"/>
+</p>
+<p align="center">
+  <img src="prediction/sample4.png" width="250"/>
+  <img src="prediction/sample5.png" width="250"/>
+  <img src="prediction/sample6.png" width="250"/>
+</p>
+
+---
+
 ## Repository Contents
 
 | File | Description |
